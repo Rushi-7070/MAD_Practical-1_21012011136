@@ -14,3 +14,11 @@ Integer to Double, String to Integer, String to Double.
 
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/6dcbe599-05c3-4413-9529-62c2390237a0)
 
+5.Display month name using When
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/ad72511b-fa03-489b-8cb8-c3dce17e2c6b)
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/b7d96ba7-4456-4356-b190-5b9dcde485a2)
+
+
+
