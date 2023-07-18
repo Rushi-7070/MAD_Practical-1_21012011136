@@ -10,3 +10,20 @@ Integer to Double, String to Integer, String to Double.
 
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/f65c3c92-c319-4471-bc86-61773e37d937)
 
+4.Find the number is odd or even by using Control Flow inside println() method.
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/6dcbe599-05c3-4413-9529-62c2390237a0)
+
+5.Display month name using When
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/ad72511b-fa03-489b-8cb8-c3dce17e2c6b)
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/b7d96ba7-4456-4356-b190-5b9dcde485a2)
+
+6. By using a user defined function perform all arithmetic operations.
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/ecbf544e-b800-4a4a-8e1f-1abde39a0c4b)
+
+
+
+
