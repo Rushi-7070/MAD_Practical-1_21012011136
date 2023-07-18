@@ -10,3 +10,6 @@ Integer to Double, String to Integer, String to Double.
 
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/f65c3c92-c319-4471-bc86-61773e37d937)
 
+4.Find the number is odd or even by using Control Flow inside println() method.
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/6dcbe599-05c3-4413-9529-62c2390237a0)
