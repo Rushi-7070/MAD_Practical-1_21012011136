@@ -20,5 +20,10 @@ Integer to Double, String to Integer, String to Double.
 
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/b7d96ba7-4456-4356-b190-5b9dcde485a2)
 
+6. By using a user defined function perform all arithmetic operations.
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/ecbf544e-b800-4a4a-8e1f-1abde39a0c4b)
+
+
 
 
