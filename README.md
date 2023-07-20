@@ -1,4 +1,4 @@
-1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/c5667d71-12c3-443a-abeb-9219876e9528)1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/0677f1e9-a3e3-4f6e-8dc2-2e76da648e87)
 
 2.Type conversion:
@@ -23,6 +23,12 @@ Integer to Double, String to Integer, String to Double.
 6. By using a user defined function perform all arithmetic operations.
 
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/ecbf544e-b800-4a4a-8e1f-1abde39a0c4b)
+
+7.Find the factorial of number by recursion. Explain "tailrec" keyword.
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/958513a3-9d92-4d04-88ec-519a1e1c58e6)
+
+
 
 
 
