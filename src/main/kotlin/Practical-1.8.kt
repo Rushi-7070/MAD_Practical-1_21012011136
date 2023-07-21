@@ -34,4 +34,8 @@ fun main(){
     print("Entered Array is:")
     println(a7.contentDeepToString())
 
+    println("\nSort array using built-in function:")
+    a7.sort()
+    print("Sorted array is:")
+    println(a7.contentDeepToString())
 }
