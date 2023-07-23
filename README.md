@@ -35,6 +35,13 @@ Integer to Double, String to Integer, String to Double.
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/90815486-20a1-42a7-bcf6-6f6fa105aed9)
 
 
+9.Find the max number from ArrayList.
+
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/3ae2a27e-7b9a-4451-b606-7c1eabc37ecb)
+
+
+
 
 
 
