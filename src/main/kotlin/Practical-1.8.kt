@@ -38,4 +38,20 @@ fun main(){
     a7.sort()
     print("Sorted array is:")
     println(a7.contentDeepToString())
+
+    println("\nSort array with-out built-in function:")
+    for (i in 0..a7.size-1){
+        for (j in i+1..a7.size-1){
+            var tmp=0
+            if (a7[i]>a7[j]){
+               tmp=a7[i]
+                a7[i]=a7[j]
+                a7[j]=tmp
+            }
+        }
+    }
+    print("Sorted array is:" )
+    for (i in 0..a7.size-1) {
+        print(" "+a7[i])
+    }
 }
