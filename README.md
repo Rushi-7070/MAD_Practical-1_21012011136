@@ -30,6 +30,11 @@ Integer to Double, String to Integer, String to Double.
 
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/958513a3-9d92-4d04-88ec-519a1e1c58e6)
 
+8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/90815486-20a1-42a7-bcf6-6f6fa105aed9)
+
+
 
 
 
