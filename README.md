@@ -56,6 +56,12 @@ Integer to Double, String to Integer, String to Double.
 ![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/3357ad8f-b99f-4d9f-89af-7acc6fbdf416)
 
 
+->Practice Question:-
+
+
+![image](https://github.com/Rushi-7070/MAD_Practical-1_21012011136/assets/97504709/7eb7405a-b045-4851-b0bb-952da82c5a0e)
+
+
 
 
 
